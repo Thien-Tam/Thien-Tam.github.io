@@ -1,0 +1,8 @@
+---
+title:  "Lorem Ipsum"
+date:   05/07/2019-07-05 11:53:00
+description: My first post
+---
+
+"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+"Il n'y a personne qui n'aime la souffrance pour elle-même, qui ne la recherche et qui ne la veuille pour elle-même..."
